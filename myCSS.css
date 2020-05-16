@@ -20,14 +20,14 @@ a:hover, a:active, a:focus {
 }
 
 .homePage {
-	background: #0AAE96;
+	background: #3247FF;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #44A35A;
+	background: #FF5A33;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -46,7 +46,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #1DB3A4;
 	margin: 0px;
 	float: left;
 	width: 100%;
